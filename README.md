@@ -11,8 +11,8 @@
 
 ## Realizar a futuro:
 
-* Agregar Eslint
-* Refactorizar llamar service
-* Agregar más actions al users slice
-* Agregar otro slice al store
-* Agregar Tests de redux
+- [ ] Agregar Eslint
+- [ ] Refactorizar llamar service
+- [ ] Agregar más actions al users slice
+- [ ] Agregar otro slice al store
+- [ ] Agregar Tests de redux
